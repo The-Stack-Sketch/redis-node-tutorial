@@ -1,0 +1,23 @@
+{
+  "name": "redis-node-tutorial",
+  "version": "1.0.0",
+  "description": "Add Redis caching to a TypeScript Node.js API, running in Docker. Code for The Stack Sketch video.",
+  "scripts": {
+    "start": "tsx src/server.ts",
+    "basics": "tsx scripts/basics.ts",
+    "typecheck": "tsc"
+  },
+  "author": "The Stack Sketch",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.3.0",
+    "redis": "^6.3.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

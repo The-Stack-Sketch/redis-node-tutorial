@@ -1,7 +1,5 @@
 # redis-node-tutorial
 
-# redis-node-tutorial
-
 [![Watch: Redis Tutorial: Add Caching to a TypeScript Node.js API](docs/thumbnail.png)](https://youtu.be/VIDEO_ID)
 
 ▶️ **[Watch the full video on YouTube](https://youtu.be/JOJbxKmPBEo)** · More from [The Stack Sketch](https://www.youtube.com/@TheStackSketch)

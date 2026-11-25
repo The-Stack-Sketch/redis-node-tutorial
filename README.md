@@ -1,6 +1,13 @@
 # redis-node-tutorial
 
-Companion code for **The Stack Sketch** video *Redis Tutorial: Add Caching to a TypeScript Node.js API (with Docker)* (YouTube: @TheStackSketch).
+# redis-node-tutorial
+
+[![Watch: Redis Tutorial: Add Caching to a TypeScript Node.js API](docs/thumbnail.png)](https://youtu.be/VIDEO_ID)
+
+▶️ **[Watch the full video on YouTube](https://youtu.be/JOJbxKmPBEo)** · More from [The Stack Sketch](https://www.youtube.com/@TheStackSketch)
+
+Companion code for the video. A small TypeScript Express API with Redis in front of a deliberately slow "database". Every Redis step is logged, so you can watch what the cache does.
+
 
 A small TypeScript Express API with Redis in front of a deliberately slow "database". Every Redis step is logged, so you can watch what the cache does.
 
